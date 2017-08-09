@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -29,7 +29,7 @@
 					<div class="row">
 						<div class="col-sm-12 text-center">
 							<img alt="logo" class="logo" src="/img/growth-min-white.png">
-							<h1 class="text-white space-bottom-medium">Une tagline qui pète</h1>
+							<h1 class="text-white space-bottom-medium">Nous sommes des Product Managers orientés Growth</h1>
 						</div>
 					</div>
 				</div>
