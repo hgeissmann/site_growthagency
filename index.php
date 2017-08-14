@@ -40,9 +40,8 @@
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
 							<span class="sub alt-font">THIGA - Growth Agency</span>
-							<h1><strong>Conseil en stratégie et design de produits numériques</strong></h1>
-							<p class="lead">L'équipe "Product Strategy" du cabinet de conseil Thiga, pure player du Product Management, intervient dans les phases les plus délicates du cycle de vie produit : <strong>cadrage de la vision initiale, optimisation produit et mise en place d'une organisation produit.</strong><br>
-							Les méthodes et outils que nous utilisons sont une synthèse des meilleures pratiques du marché : <strong>Lean Startup, Design Thinking, Agile & Lean UX.</strong>
+							<h1><strong>Nous vous aidons à construire, développer et faire croître leurs produits numériques.</strong></h1>
+							<p class="lead">Nous accompagnons les entreprises à accélérer leur croissance en optimisant leur produit numérique. Notre expertise est au croisement de la data et de la connaissance utilisateur, du product management et du marketing.
 							</p>
 						</div>
 					</div>
