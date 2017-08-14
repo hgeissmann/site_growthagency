@@ -56,7 +56,10 @@
 							<h1>Nos offres</h1>
 						</div>
 					</div>
-		
+					<p>Vous cherchez à développer votre croissance ? Nous vous accompagnons dans l’optimisation de vos produits numériques, la mise en place d’une organisation “data informed”, l’organisation de vos équipes pour gagner en agilité et performance,la qualification et la croissance de votre audience.<br>
+					<br>
+					
+					</p>
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="feature feature-icon-large">
@@ -64,9 +67,10 @@
 									<a href="offre-idee-mvp.php"><i class="icon icon-genius"></i></a>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-idee-mvp.php">De l'idée au MVP</a></h5>
+									<h5><a href="offre-idee-mvp.php">Growth Strategy & Growth Marketing</a></h5>
 									<p>
-										Définir la vision Produit, le périmètre fonctionnel du MVP et les grands principes d’UX grace aux outils et principes du Design Thinking et du Lean Sartup.
+										Nous analysons votre Product Market Fit, votre Business Model, les parcours utilisateurs, la segmentation, les leviers d’acquisition exploités, … Nous vous aidons à optimiser les composantes de votre modèle à chacune des étapes de votre développement et à identifier les meilleurs moteurs de croissance.
+ 
 									</p>
 								</div>
 							</div>
@@ -78,9 +82,10 @@
 									<<a href="offre-optimisation-produit.php"><i class="icon icon-linegraph"></i></a>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-optimisation-produit.php">Optimisation produit</a></h5>
+									<h5><a href="offre-optimisation-produit.php">Optimisation de la conversion</a></h5>
 									<p>
-										Obtenir une vision à 360° des performances et des dysfonctionnements de votre Produit.
+										Nous analysons les tunnels de conversion (AARRR), les parcours utilisateurs, les données, les insights … afin d’identifier des axes d’amélioration à investiguer (testing). Nous vous aidons à mettre en place une démarche orientée croissance et à coordonner vos équipes techniques et marketing pour vous aider à gagner en vélocité et en performances.
+
 									</p>
 								</div>
 							</div>
@@ -92,29 +97,13 @@
 									<a href="offre-organisation-produit.php"><i class="icon icon-tools-2"></i></a>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-organisation-produit.php">Organisation produit</a></h5>
+									<h5><a href="offre-organisation-produit.php">Data, Analytics & Connaissance utilisateurs</a></h5>
 									<p>
-										Instaurer une véritable culture Produit au sein de votre équipe et structurer une équipe produit en croissance.
-
+										Nous vous aidons à sélectionner et à installer les bons outils, à optimiser de façon itérative le tracking en place, à segmenter vos utilisateurs, à connaître les usages de vos produits numériques, à suivre les bons indicateurs… afin de vous éclairer dans les ajustements nécessaires et vos prises de décisions futures.
 									</p>
 								</div>
 							</div>
 						</div>
-						
-						<div class="col-sm-6">
-							<div class="feature feature-icon-large">
-								<div class="pull-left">
-									<a href="offre-designsprint.php"><i class="icon icon-desktop"></i></a>
-								</div>
-								<div class="pull-right">
-									<h5><a href="offre-designsprint.php">Design Sprint et Innovation Lab</a></h5>
-									<p>
-										Conduire des Design Sprints pour résoudre par l'UX les problématiques fonctionnelles les plus complexes. 
-									</p>
-								</div>
-							</div>
-						</div>
-						
 					</div>
 				</div>
 			
