@@ -1,4 +1,4 @@
-﻿
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -30,47 +30,32 @@
 						<div class="col-sm-12 text-center">
 							<img alt="logo" class="logo" src="/img/growth-min-white.png">
 							<h1 class="text-white space-bottom-medium">Nous sommes des Product Managers orientés Growth</h1>
+                            <p class="lead text-white">Notre expertise est au croisement de la data et de la connaissance utilisateur, du product management et du marketing.</p>
 						</div>
 					</div>
 				</div>
 			</header>
 			
-			<section class="pure-text-centered">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
-							<span class="sub alt-font">THIGA - Growth Agency</span>
-							<h1><strong>Nous vous aidons à construire, développer et faire croître leurs produits numériques.</strong></h1>
-							<p class="lead">Nous accompagnons les entreprises à accélérer leur croissance en optimisant leur produit numérique. Notre expertise est au croisement de la data et de la connaissance utilisateur, du product management et du marketing.
-							</p>
-						</div>
-					</div>
-		
-				</div>
-			</section>
+			
 			<section class="duplicatable-content">
 			
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h1>Nos offres</h1>
+							<h1>Nous aidons les entreprises à accélérer leur croissance<br/>en optimisant leur produit numérique</h1>
 						</div>
 					</div>
-					<p>Vous cherchez à développer votre croissance ? Nous vous accompagnons dans l’optimisation de vos produits numériques, la mise en place d’une organisation “data informed”, l’organisation de vos équipes pour gagner en agilité et performance,la qualification et la croissance de votre audience.<br>
-					<br>
-					
-					</p>
+		
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="feature feature-icon-large">
 								<div class="pull-left">
-									<a href="offre-idee-mvp.php"><i class="icon icon-genius"></i></a>
+									<i class="icon icon-circle-compass"></i>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-idee-mvp.php">Growth Strategy & Growth Marketing</a></h5>
+									<h5>Growth Strategy et Growth Marketing</h5>
 									<p>
-										Nous analysons votre Product Market Fit, votre Business Model, les parcours utilisateurs, la segmentation, les leviers d’acquisition exploités, … Nous vous aidons à optimiser les composantes de votre modèle à chacune des étapes de votre développement et à identifier les meilleurs moteurs de croissance.
- 
+										Data, leviers d’acquisition, rétention, moteurs de croissance, ... Nous vous accompagnons sur le management et la mise en place des différentes composantes de votre croissance.
 									</p>
 								</div>
 							</div>
@@ -79,13 +64,12 @@
 						<div class="col-sm-6">
 							<div class="feature feature-icon-large">
 								<div class="pull-left">
-									<<a href="offre-optimisation-produit.php"><i class="icon icon-linegraph"></i></a>
+									<i class="icon icon-linegraph"></i>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-optimisation-produit.php">Optimisation de la conversion</a></h5>
+									<h5>Data, Analytics et Connaissance utilisateurs</h5>
 									<p>
-										Nous analysons les tunnels de conversion (AARRR), les parcours utilisateurs, les données, les insights … afin d’identifier des axes d’amélioration à investiguer (testing). Nous vous aidons à mettre en place une démarche orientée croissance et à coordonner vos équipes techniques et marketing pour vous aider à gagner en vélocité et en performances.
-
+										Nous analysons les tunnels de conversion (AARRR), les parcours utilisateurs, les données, les insights … afin d’identifier des axes d’amélioration à expérimenter.
 									</p>
 								</div>
 							</div>
@@ -94,16 +78,31 @@
 						<div class="col-sm-6">
 							<div class="feature feature-icon-large">
 								<div class="pull-left">
-									<a href="offre-organisation-produit.php"><i class="icon icon-tools-2"></i></a>
+									<i class="icon icon-beaker"></i>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-organisation-produit.php">Data, Analytics & Connaissance utilisateurs</a></h5>
+									<h5>Optimisation de la conversion</h5>
 									<p>
-										Nous vous aidons à sélectionner et à installer les bons outils, à optimiser de façon itérative le tracking en place, à segmenter vos utilisateurs, à connaître les usages de vos produits numériques, à suivre les bons indicateurs… afin de vous éclairer dans les ajustements nécessaires et vos prises de décisions futures.
+										Nous vous aidons à sélectionner et à installer les bons outils, à affiner le tracking, et à expérimenter les mécanismes de conversion pertinents (ab testing)
 									</p>
 								</div>
 							</div>
 						</div>
+						
+						<div class="col-sm-6">
+							<div class="feature feature-icon-large">
+								<div class="pull-left">
+									<i class="icon icon-chat"></i>
+								</div>
+								<div class="pull-right">
+									<h5>S'organiser pour croître</h5>
+									<p>
+										Nous vous aidons à mettre en place une démarche et une organisation orientée croissance et à coordonner vos équipes techniques, marketing et data pour vous aider à gagner en vélocité.
+									</p>
+								</div>
+							</div>
+						</div>
+						
 					</div>
 				</div>
 			
@@ -158,24 +157,10 @@
 					</div>
 				</div>
 			</section>
-			
-			<section class="strip bg-secondary-1">
-				<div class="container">
-					<div class="row clearfix">
-						<div class="col-sm-6 col-xs-12 pull-left">
-							<h3 class="text-white"><span><strong>Envie de vous former au Product Management, au Design Thinking, aux Design Sprints ?</span></h3>
-						</div>
-						
-						<div class="col-sm-4 col-xs-12 pull-right text-right">
-							<a href="http://academy.thiga.fr/formations" target="_blank" class="btn btn-primary btn-white">Voir les formations Thiga Academy<br></a>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			
+            
+            
 		</div>
 		
-<?php include('footer.php'); ?>
-
-</html>		
+		<?php include('footer.php'); ?>
+</html>
+				
