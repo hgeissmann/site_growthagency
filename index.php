@@ -37,7 +37,7 @@
 			</header>
 			
 			
-			<section class="duplicatable-content">
+			<section id="offre" class="duplicatable-content">
 			
 				<div class="container">
 					<div class="row">
@@ -109,29 +109,29 @@
 			</section>
 			
 			<section id="clients" class="clients">
-				<div class="container">
+								<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<p class="lead">Nous les avons accompagné sur la création de produits numériques novateurs et sur la mise en place d'organisations orientées produit<br></p>
+							<p class="lead"></p><h1>Ils nous font confiance</h1><p></p>
 						</div>
 					</div>
 					
 					<div class="row client-row">
 						<div class="row-wrapper">
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/logo-vsc-fb-2-min.jpg">
+								<img alt="client" src="img/Capture.JPG">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/sarenza-logo-1024x253-min.png">
+								<img alt="client" src="img/sncf.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/Deezer_logo-min.png">
+								<img alt="client" src="img/renault.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/coyote-min.jpg">
+								<img alt="client" src="img/rue89.png">
 							</div>
 						</div>
 					</div>
@@ -139,25 +139,264 @@
 					<div class="row client-row">
 						<div class="row-wrapper">
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/mediapart-min.png">
+								<img alt="client" src="img/credit-fr.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/AXA_Logo.svg-min.png">
+								<img alt="client" src="img/AXA.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/1024px-BNP_Paribas.svg_-min.png">
+								<img alt="client" src="img/scopfi.PNG">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/640px-Decathlon_Logo-min.png">
+								<img alt="client" src="img/outscale.png">
+							</div>
+						</div>
+					</div><div class="row client-row">
+						<div class="row-wrapper">
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/yomoni.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/Citygoo.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/reed_exposition.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/sefaireaider.png">
+							</div>
+						</div>
+					</div><div class="row client-row">
+						<div class="row-wrapper">
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/finexkap.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/Texas_instrument.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/umanlife.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/idvroom.png">
+							</div>
+						</div>
+					</div><div class="row client-row">
+						<div class="row-wrapper">
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/leroutard.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/fluks_aqua.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/Euodia.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/wesave.png">
+							</div>
+						</div>
+					</div><div class="row client-row">
+						<div class="row-wrapper">
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/homefriend.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/keepthelink.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/adminiz.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="img/logo_altares.JPG">
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
             
+            <section id="equipe" class="team-small">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 text-center">
+							<h1> L'équipe</h1>
+							<p class="lead">
+								Thiga - Growth Agency est composée d’une équipe de collaborateurs aux profils variés qui partagent une même passion pour le Growth Marketing et le Product Management.
+							</p>
+						</div>
+					</div>
+					
+					<div class="row">
+						<div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/PhotoNico-495x400.jpg">
+								<h5>Nicolas Galland</h5>
+								<span>Growth Marketer<br>Expert Analytics<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/jos_nb-495x400.jpg">
+								<h5>Joséphine Lamock</h5>
+								<span>Growth Marketer<br>Product Strategist<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Fabien_Levrey_495x400.jpg">
+								<h5>Fabien Levrey</h5>
+								<span>Growth Marketer<br>Product Ownership<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Grégoire_Bois_nb_495x4001.jpg">
+								<h5>Grégoire Bois</h5>
+								<span>Growth Marketer<br>Expert Analytics<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Yohann_Bosco_nb_495x400.jpg">
+								<h5>Yohann Bosco</h5>
+								<span>Expert Analytic<br>Data Scientist<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Marine_Roy_nb_495x4001.jpg">
+								<h5>Marine Roy</h5>
+								<span>Growth Marketer<br>Product Strategist<br></span><br>
+							</div>
+						</div>
+
+
+						<div class="row">
+
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/AnneEmmanuelle.png">
+								<h5>Anne-Emmanuelle Rebordao</h5>
+								<span>Growth Marketer<br></span><br>
+							</div>
+						</div>
+                        <div class="col-sm-4 col-md-2">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Loic_Jalmin_nb_495x4001.jpg">
+								<h5>Loïc Jalmin</h5>
+								<span>Partenaire<br>Expert Analytic<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Paul_Romano_nb_495x4001.jpg">
+								<h5>Paul Romano</h5>
+								<span>Partenaire<br>Expert SEO<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Hugo_Geissmann_nb_495x4001.jpg">
+								<h5>Hugo<br>Geissmann</h5>
+								<span>Co-founder<br></span><br>
+							</div>
+						</div>
+                        <div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/Alexandre_Irrmann_Teze_nb_495x4001.jpg">
+								<h5>Alexandre<br>Irrmann-Tézé</h5>
+								<span>Co-founder<br></span><br>
+							</div>
+						</div>
+
+
+						<div class="col-md-2 col-sm-4">
+							<div class="team-1-member">
+								<img alt="Team Member" class="background-image" src="img/stephane_coussement_f_nb-495x400.jpg">
+								<h5>Stéphane<br>Coussement</h5>
+								<span>Partner<br></span><br>
+							</div>
+						</div>
+
+
+
+					</div>
+				</div>
+			</section>
+            
+            
+            
+            
+            <script>                        
+                var postDataToWebhook = function(){    
+                  //url to your webhook
+                  var webHookUrl="https://hooks.slack.com/services/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"; 
+                  var contact = $('.form-email').val(); 
+                  var message = $('.form-message').val();
+
+                  if(!contact){$('.form-error').show();return;}
+
+                  //https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+                  var oReq = new XMLHttpRequest();
+                  var payload={text:'@le_couss @nicogalland',attachments: [
+                        {title:contact, text:message||'pas de message'}]};
+
+                //register method called after data has been sent method is executed
+                  oReq.open("POST", webHookUrl,true);
+                  oReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                  oReq.send(JSON.stringify(payload));
+                  $('.form-success').show();
+                    $('.form-error').hide();
+                };
+        </script>            
+            <section id="contact" class="contact-center">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+							<h1>Contact<br></h1>
+							<p class="lead">
+								Vous êtes intéressé(e) par nos offres ? Vous souhaitez obtenir plus d’informations sur nos métiers ? Vous avez envie de nous rejoindre ?<br><br>
+								Laissez nous un mail ou un numéro de téléphone et nous vous recontacterons très rapidement !</p>
+						</div>
+					</div>
+					
+					<div class="row">
+						<div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">
+							<div class="form-wrapper clearfix">
+								<form class="form-contact email-form">
+									<div class="inputs-wrapper">										
+										<input class="form-email validate-required" type="text" name="email" placeholder="Votre email ou numéro de téléphone">
+										<textarea class="form-message validate-required" name="message" placeholder="Votre message (optionnel)"></textarea>
+									</div>
+									<button type="button" class="btn btn-primary" onclick="postDataToWebhook()" value="Send Form">Contactez-moi !</button>
+									<div class="form-success">
+										<span class="text-white">Merci, à tout de suite !</span>
+									</div>
+									<div class="form-error">
+										<span class="text-white">Merci de remplir le champ "mail ou téléphone" :)</span>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
             
 		</div>
 		

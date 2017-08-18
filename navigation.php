@@ -27,18 +27,12 @@
 						<div class="col-md-10 col-sm-9 columns">
 							<ul class="menu">
 								<li><a href="#clients">Clients</a></li>
-								<li class="has-dropdown"><a href="#">Offres</a>
-									<ul class="subnav">
-										<li><a href="offre-idee-MVP.php">De l'idée au MVP</a></li>
-										<li><a href="offre-optimisation-produit.php">Optimisation produit</a></li>
-										<li><a href="offre-organisation-produit.php">Organisation produit</a></li>
-										<li><a href="offre-designsprint.php">Design Sprint</a></li>
-									</ul>
+								<li><a href="#offre">Offres</a>
 								</li>
 								<li><a href="publications.php">Publications</a></li>
-								<li><a href="formations.php">Formations</a></li>
-								<li><a href="equipe.php">Équipe</a></li>
-								<li><a href="playbook.php">Playbook</a></li>
+								<li><a href="http://academy.thiga.fr">Formations</a></li>
+								<li><a href="#equipe">Équipe</a></li>
+                                <li><a href="#contact">Contact</a></li>
 							</ul>
 		
 							<ul class="social-icons text-right">
