@@ -16,6 +16,7 @@
 
     </head>
 
+
     <body>
     	<?php include('gtm-body.php'); ?>
 		<?php include('navigation.php'); ?>
@@ -53,7 +54,7 @@
 									<i class="icon icon-circle-compass"></i>
 								</div>
 								<div class="pull-right">
-									<h5>Growth Strategy et Growth Marketing</h5>
+									<h5>Growth Marketing</h5>
 									<p>
 										Data, leviers d’acquisition, rétention, moteurs de croissance, ... Nous vous accompagnons sur le management et la mise en place des différentes composantes de votre croissance.
 									</p>
@@ -340,7 +341,18 @@
 				</div>
 			</section>
             
-            
+            <section class="pure-text-centered">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
+							<span class="sub alt-font">Thiga et vous<br></span>
+							<h1><strong>Notre méthode</strong></h1>
+							<p class="lead">Nous aidons les entreprises à adopter les bons réflexes et les bons outils pour optimiser la croissance de leurs produits numériques. Interface entre les équipes techniques et marketing, nous exploitons les meilleures pratiques issues du Lean Startup, du Design Thinking, de l’Agile et du Growth Hacking.</p><p class="lead">Nous accompagnons les entreprises dans leur transformation (2 à 4 mois) puis nous intervenons de façon plus ponctuelle.</p><p class="lead">Nos interventions se déroulent en 3 phases : en fonction de l’existant, ces phases peuvent être très courtes.</p><p class="lead"></p><p class=" phases">Phase 1 : Growth Marketing Canvas</p><p class="lead">C’est une phase d’observation qui dure généralement 3 à 4 jours avec 2 intervenants (un Expert Analytics et un Growth Marketer) nous prenons connaissance du contexte de l’entreprise et du Produit numérique ce qui nous permet ensuite d’orienter les actions à mettre en oeuvre.</p><p class="lead"></p><p class="phases">Phase 2 : Etude Quanti/Quali</p><p class="lead">Définition des KPIs, définition du customer journey, réalisation d’interviews ...</p><p class="lead">Identification des pain points et moments d’enchantement sur l’ensemble du parcours utilisateurs</p><p class="lead"></p><p class="phases">Phase 3 : Mise en place de la démarche Growth</p><p class="lead">Partage et organisation de la démarche - Tests et itérations successives</p>
+						</div>
+					</div>
+		
+				</div>
+			</section>
             
             
             <script>                        

@@ -1,3 +1,9 @@
+.phases {
+            font-weight:bold;
+            font-size:16px;
+            margin-top: 32px;
+        }
+
 a {
     color: #333333;
     text-decoration: none;

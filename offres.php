@@ -42,8 +42,7 @@
                         <div class="col-sm-12">
                             <span class="text-white alt-font">OFFRES</span>
                             <h1 class="text-white">Nos Offres Growth</h1>
-                            <p class="text-white lead"><i>Nous aidons les entreprises à accélérer leur croissance
-en optimisant leur produit numérique</i></p>
+                            <p class="text-white lead"><i>Nous aidons les entreprises à adopter les bons réflexes et les bons outils pour optimiser la croissance de leurs produits numériques.</i></p>
                         </div>
                     </div>
                 </div>
@@ -66,7 +65,7 @@ en optimisant leur produit numérique</i></p>
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1">
 							<p class="lead">
-								Nos offres s'adaptent au plus près de vos besoins. eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
+								Interface entre les équipes techniques et marketing, nous exploitons les meilleures pratiques issues du Lean Startup, du Design Thinking, de l’Agile et du Growth Hacking.
 							</p>
 						</div>
 					</div>
@@ -88,21 +87,22 @@ en optimisant leur produit numérique</i></p>
 					<div class="row">
 				
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-                            <h1><i style="color: #E7523F;display:none;position:absolute;left:40px" class="icon icon-circle-compass"></i>Growth Strategy et Growth Marketing</h1>
-							<p class="lead" contenteditable="">Vous cherchez à développer votre croissance ? Nous analysons votre Product Market Fit, votre Business Model, les parcours utilisateurs, les leviers d’acquisition exploités, … Afin d'identifier les meilleurs moteurs de croissance</p>
+                            <h1><i style="color: #E7523F;/* display:none; *//* position:absolute; *//* left: -59px; *//* top: 92px; */font-size: 39px;" class="icon icon-circle-compass"></i>&nbsp;&nbsp;Growth Marketing</h1>
+							<p class="lead" contenteditable="">Data, leviers d’acquisition, rétention, moteurs de croissance, ... Nous vous accompagnons sur le management et la mise en place des différentes composantes de votre croissance.<br/>
+Nos experts vous aide à déterminer les chantiers prioritaires du tunnel AARRR, et à mettre en oeuvre concrètement, et avec vos équipes, les évolutions qui vont driver votre croissance.</p>
                         
 							<a href="#contact" class="btn btn-primary">Nous contacter</a><br>
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Nos consultants</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									En fonction de vos besoins et de votre contexte, nous vous mettons à disposition des experts data, growth strategist, growth marketers ou growth hackers.
 								</p>
 							</div>
 						
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Mode d'accompagnement</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Un duo d'experts complémentaires vous accompagne en régie, à temps complet ou à temps partiel.
 								</p>
 							</div>
 						</div>
@@ -122,22 +122,23 @@ en optimisant leur produit numérique</i></p>
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 content col-sm-8 clearfix">
-								<h1 contenteditable>Data, Analytics et Connaissance utilisateurs</h1>
+								<h1 contenteditable><i style="color: #E7523F;/* display:none; *//* position:absolute; *//* left: -59px; *//* top: 92px; */font-size: 39px;" class="icon icon-linegraph"></i>&nbsp;&nbsp;Data, Analytics et Connaissance utilisateurs</h1>
 							<p contenteditable class="lead">
-								Nous vous aidons à choisir et à installer les bons outils, à optimiser le tracking, à segmenter vos clients, à connaître les usages de vos produits, à suivre les bons indicateurs… afin de vous éclairer dans vos prises de décisions futures.
+								Nous vous aidons à choisir et à installer les outils adaptés à vos besoins : session recording, analytics marketing et produit, dashboards, ...<br/>
+Nous optimisons le tracking de manière itérative, nous analysons votre segmentation client, nous vous aidons à connaître les usages de vos produits et suivre les bons indicateurs… afin de vous éclairer dans vos prises de décisions futures.
 							</p>
 							<a href="#contact" class="btn btn-primary">Nous contacter</a><br>
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Nos consultants</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Data scientist, experts analytics et outils, et profils polyvalents marketing/data vous aident à prendre des décisions "Data Informed".
 								</p>
 							</div>
 						
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Mode d'accompagnement</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Un expert data, encadré si nécessaire par un profil marketing produit, vous accompagne en régie le temps nécessaire (quelques semaines).
 								</p>
 							</div>	
 							
@@ -173,22 +174,22 @@ en optimisant leur produit numérique</i></p>
 					<div class="row">
 				
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-							<h1 contenteditable>Optimisation de la conversion</h1>
+							<h1 contenteditable><i style="color: #E7523F;/* display:none; *//* position:absolute; *//* left: -59px; *//* top: 92px; */font-size: 39px;" class="icon icon-beaker"></i>&nbsp;&nbsp;Optimisation de la conversion</h1>
 							<p contenteditable class="lead">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+								Landing pages, tunnels de paiement, parcours d'inscription, popups et mécanismes de conversions, ... nous aidons à expérimenter et mesurer des améliorations (UX, CRM, ab tests, parcours, copywriting, ...) afin de transformer plus de visiteurs en clients.
 							</p>
 							<a href="#contact" class="btn btn-primary">Nous contacter</a><br>
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Nos consultants</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									En fonction de vos besoins et de votre contexte, nous vous mettons à disposition des experts analytics, marketing, communication et growth hackers.
 								</p>
 							</div>
 						
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Mode d'accompagnement</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Un ou plusieurs experts vous accompagne en régie, à temps complet ou à temps partiel.
 								</p>
 							</div>
 						</div>
@@ -208,22 +209,22 @@ en optimisant leur produit numérique</i></p>
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 content col-sm-8 clearfix">
-				            <h1 contenteditable>S'organiser pour croître</h1>
+				            <h1 contenteditable><i style="color: #E7523F;/* display:none; *//* position:absolute; *//* left: -59px; *//* top: 92px; */font-size: 39px;" class="icon icon-chat"></i>&nbsp;&nbsp;S'organiser pour croître</h1>
 							<p contenteditable class="lead">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+								Nous vous aidons à mettre en place une démarche et une organisation orientée croissance et à coordonner vos équipes techniques, marketing et data pour vous aider à gagner en vélocité.
 							</p>
 							<a href="#contact" class="btn btn-primary">Nous contacter</a><br>
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Nos consultants</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Nous vous mettons à disposition un de nos product managers "full stack", expert en organisation produit et growth.
 								</p>
 							</div>
 						
 							<div class="col-sm-6 no-pad-left feature">
 								<h5 contenteditable>Mode d'accompagnement</h5>
 								<p contenteditable>
-									Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor
+									Notre spécialiste en organisation growth vous accompagne à temps partiel ou à temps plein, renforcé si besoin de ressources opérationnelles pour compléter votre dispositif.
 								</p>
 							</div>	
 							
