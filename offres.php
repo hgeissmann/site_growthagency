@@ -15,6 +15,18 @@
         <?php include('head-global.php'); ?>
 
     </head>
+    
+    <style>
+        .btn-primary {
+          border: 2px solid #E7523F;
+          color: #E7523F;
+        }
+        .btn-primary:hover {          
+          color: #ffffff;
+          border-color: #E7523F;
+          background-color: #E7523F;
+        }
+    </style>
 
     <body>
     	<?php include('gtm-body.php'); ?>
@@ -38,14 +50,15 @@ en optimisant leur produit numérique</i></p>
             </header>
 			
             
-            <section class="text-banner" style="padding-bottom:50px;">
+            <section style="background:white;padding-bottom:50px;" class="text-banner" >
 				<div class="container text-center">
 					<div class="row">
 						<div class="col-sm-12" >
 							<ul class="icons-large" >
-								<li><i class="icon icon-desktop"></i></li>
-								<li><i class="icon icon-tools-2"></i></li>
-								<li><i class="icon icon-compass"></i></li>
+								<li><i class="icon icon-circle-compass"></i></li>
+								<li><i class="icon icon-linegraph"></i></li>
+								<li><i class="icon icon-beaker"></i></li>
+                                <li><i class="icon icon-chat"></i></li>
 							</ul>
 							<h1 class="center-block">Découvrez l'offre adaptée à vos besoins</h1>
 						</div>
@@ -75,7 +88,7 @@ en optimisant leur produit numérique</i></p>
 					<div class="row">
 				
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-							<h1>Growth Strategy et Growth Marketing</h1>
+                            <h1><i style="color: #E7523F;display:none;position:absolute;left:40px" class="icon icon-circle-compass"></i>Growth Strategy et Growth Marketing</h1>
 							<p class="lead" contenteditable="">Vous cherchez à développer votre croissance ? Nous analysons votre Product Market Fit, votre Business Model, les parcours utilisateurs, les leviers d’acquisition exploités, … Afin d'identifier les meilleurs moteurs de croissance</p>
                         
 							<a href="#contact" class="btn btn-primary">Nous contacter</a><br>

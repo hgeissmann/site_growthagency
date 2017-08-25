@@ -22,7 +22,7 @@
 		<div class="main-container">
 			<header class="page-header">
 				<div class="background-image-holder parallax-background">
-					<img class="background-image" alt="Background Image" src="/img/wallform.png">
+					<img class="background-image" alt="Background Image" src="img/hero6.jpg">
 				</div>
 				
 				<div class="container">
